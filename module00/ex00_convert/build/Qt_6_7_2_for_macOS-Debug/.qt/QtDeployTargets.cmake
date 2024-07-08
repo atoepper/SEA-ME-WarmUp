@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ex00_convert_FILE /Users/alexander/Documents/42School/sea:me/module00/ex00_convert/build/Qt_6_7_2_for_macOS-Debug/ex00_convert)
+set(__QT_DEPLOY_TARGET_ex00_convert_TYPE EXECUTABLE)

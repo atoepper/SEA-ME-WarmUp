@@ -1,0 +1,22 @@
+# ninja log v6
+1660	1766	1720441022742499068	ex01_phonebook	4eb15f31f32f01e7
+89	2916	1720439876638827797	CMakeFiles/ex01_phonebook.dir/main.cpp.o	b8252824a2698d90
+993	1318	1720435826329966929	CMakeFiles/ex01_phonebook.dir/ex01_phonebook_autogen/mocs_compilation.cpp.o	86b0b76af12140b4
+138	1772	1720438616965920966	CMakeFiles/ex01_phonebook.dir/contact.cpp.o	d591a5506c91a537
+10	130	1720441021093261865	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+10	130	1720441021093261865	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+10	130	1720441021093261865	ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+131	1659	1720441021214054989	CMakeFiles/ex01_phonebook.dir/phonebook.cpp.o	96835fbc3bac57ce
+10	130	1720441021093261865	ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+16	174	1720441290602849400	ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+16	174	1720441290602849400	ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+16	174	1720441290602849400	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+16	174	1720441290602849400	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+174	1527	1720441290761414263	CMakeFiles/ex01_phonebook.dir/phonebook.cpp.o	96835fbc3bac57ce
+1527	1641	1720441292113985657	ex01_phonebook	4eb15f31f32f01e7
+15	122	1720441408416570947	ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+15	122	1720441408416570947	ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+15	122	1720441408416570947	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/timestamp	326bf0fd737d21f0
+15	122	1720441408416570947	/Users/alexander/Documents/42School/sea:me/module00/ex01_phonebook/build/Qt_6_7_2_for_macOS-Debug/ex01_phonebook_autogen/mocs_compilation.cpp	326bf0fd737d21f0
+122	1638	1720441408523769488	CMakeFiles/ex01_phonebook.dir/phonebook.cpp.o	96835fbc3bac57ce
+1638	1745	1720441410039964422	ex01_phonebook	4eb15f31f32f01e7

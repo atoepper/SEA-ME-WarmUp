@@ -1,0 +1,8 @@
+# ninja log v6
+3	238	1720428714710432706	ex00_convert_autogen/timestamp	8bc282cd96d1f96c
+3	238	1720428714710432706	ex00_convert_autogen/mocs_compilation.cpp	8bc282cd96d1f96c
+3	238	1720428714710432706	/Users/alexander/Documents/42School/sea:me/module00/ex00_convert/build/Qt_6_7_2_for_macOS-Debug/ex00_convert_autogen/timestamp	8bc282cd96d1f96c
+3	238	1720428714710432706	/Users/alexander/Documents/42School/sea:me/module00/ex00_convert/build/Qt_6_7_2_for_macOS-Debug/ex00_convert_autogen/mocs_compilation.cpp	8bc282cd96d1f96c
+240	349	1720428714753612036	CMakeFiles/ex00_convert.dir/ex00_convert_autogen/mocs_compilation.cpp.o	30d8a2390d595aec
+241	2727	1720428714754202904	CMakeFiles/ex00_convert.dir/main.cpp.o	bc3fc7525d5dc3fb
+2730	2884	1720428717243719813	ex00_convert	2dd61194069b6d3b
