@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2cace3e915a8a43c163c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MoreCars",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MoreCars::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MoreCars-Debug-a6b08bb214cf23370bfe.json",
+					"name" : "MoreCars",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MoreCars_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MoreCars_autogen-Debug-59a45378a3c848190152.json",
+					"name" : "MoreCars_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MoreCars_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MoreCars_autogen_timestamp_deps-Debug-7d1f8e8d5db77101c989.json",
+					"name" : "MoreCars_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alexander/Documents/42School/sea:me/module01/MoreCars/build/Qt_6_7_2_for_macOS-Debug",
+		"source" : "/Users/alexander/Documents/42School/sea:me/module01/MoreCars"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

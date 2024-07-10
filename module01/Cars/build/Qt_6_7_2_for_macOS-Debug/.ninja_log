@@ -1,0 +1,9 @@
+# ninja log v6
+3	180	1720612911785939896	Cars_autogen/timestamp	f69c72d2460f356c
+3	180	1720612911785939896	Cars_autogen/mocs_compilation.cpp	f69c72d2460f356c
+3	180	1720612911785939896	/Users/alexander/Documents/42School/sea:me/module01/Cars/build/Qt_6_7_2_for_macOS-Debug/Cars_autogen/timestamp	f69c72d2460f356c
+3	180	1720612911785939896	/Users/alexander/Documents/42School/sea:me/module01/Cars/build/Qt_6_7_2_for_macOS-Debug/Cars_autogen/mocs_compilation.cpp	f69c72d2460f356c
+182	289	1720612911814391882	CMakeFiles/Cars.dir/Cars_autogen/mocs_compilation.cpp.o	2ab4abfeb1fa6ddd
+182	1920	1720612911814752053	CMakeFiles/Cars.dir/main.cpp.o	d68739299965c381
+182	1923	1720612911815071025	CMakeFiles/Cars.dir/car.cpp.o	a7b220daf310a9a3
+1923	2099	1720612913555816006	Cars	fcfa3ab143f780fe

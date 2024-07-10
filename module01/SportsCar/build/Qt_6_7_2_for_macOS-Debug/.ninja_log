@@ -1,0 +1,22 @@
+# ninja log v6
+6	94	1720174359989398296	SportsCar_autogen/timestamp	5421b094ee0c3c94
+6	94	1720174359989398296	SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+6	94	1720174359989398296	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/timestamp	5421b094ee0c3c94
+3065	3280	1720174363048494317	SportsCar	30d2bca66cedda9b
+6	94	1720174359989398296	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+374	640	1720174284062328400	CMakeFiles/SportsCar.dir/SportsCar_autogen/mocs_compilation.cpp.o	7c3404a8c96e62d9
+94	3065	1720174360077326564	CMakeFiles/SportsCar.dir/main.cpp.o	e114e0a98b18e983
+95	1723	1720174360077735042	CMakeFiles/SportsCar.dir/car.cpp.o	afc18c4d5273fa1d
+21	144	1720177189943576341	SportsCar_autogen/timestamp	5421b094ee0c3c94
+21	144	1720177189943576341	SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+21	144	1720177189943576341	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/timestamp	5421b094ee0c3c94
+21	144	1720177189943576341	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+145	2513	1720177190067860400	CMakeFiles/SportsCar.dir/car.cpp.o	afc18c4d5273fa1d
+145	3537	1720177190067250505	CMakeFiles/SportsCar.dir/main.cpp.o	e114e0a98b18e983
+11	127	1720177253174674242	SportsCar_autogen/timestamp	5421b094ee0c3c94
+11	127	1720177253174674242	SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+11	127	1720177253174674242	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/timestamp	5421b094ee0c3c94
+11	127	1720177253174674242	/Users/alexander/Documents/42School/sea:me/module01/SportsCar/build/Qt_6_7_2_for_macOS-Debug/SportsCar_autogen/mocs_compilation.cpp	5421b094ee0c3c94
+129	1135	1720177253292859453	CMakeFiles/SportsCar.dir/sportscar.cpp.o	6d82cb6e853bffae
+127	2171	1720177253291062911	CMakeFiles/SportsCar.dir/main.cpp.o	e114e0a98b18e983
+2171	2392	1720177255334798102	SportsCar	c772838b554404f2
