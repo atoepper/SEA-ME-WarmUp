@@ -20,9 +20,10 @@ int main(int argc, char *argv[])
             phonebook.remove();
         else if (command == "BOOKMARK")
             phonebook.listBookmarks();
+        else if (command.length() == 0)
+            return (0);
         else
             std::cout << "Invalid input" << std::endl;
-
     }
     return(0);
 }
